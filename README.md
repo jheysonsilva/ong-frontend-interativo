@@ -86,9 +86,9 @@ ong-frontend-interativo/
 ├─ css/
 │   └─ style.css       # Arquivo de estilos principal (Atividade III)
 │
-├─ js/                 # Scripts JavaScript
-│   ├─ menu.js         # Menu responsivo
-│   ├─ validacaoForm.js# Validação do formulário
+├─ js/                   # Scripts JavaScript
+│   ├─ menu.js           # Menu responsivo
+│   ├─ validacaoForm.js  # Validação do formulário
 │   └─ renderProjetos.js # Renderização dinâmica de projetos
 │
 ├─ img/                # Imagens da ONG
